@@ -1,0 +1,1 @@
+A GPS experiment for Android (2.3+) using the Haversine formula to calculate distance and bearing of the user. Coordinates of the target must be inserted in WGS84 format using decimal numbers.
